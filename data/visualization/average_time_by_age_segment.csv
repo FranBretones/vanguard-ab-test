@@ -1,0 +1,7 @@
+age_segment,Average Time (seconds),Variation
+middle,314.1536157466838,Test
+old,366.7145910238974,Test
+young,257.30682989690723,Test
+middle,290.2508191653787,Control
+old,310.34336145648314,Control
+young,225.80588762701734,Control

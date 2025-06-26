@@ -1,0 +1,5 @@
+tenure_segment,Average Time (seconds),Variation
+long_tenure,321.7799854615944,Test
+new,310.5893267142414,Test
+long_tenure,286.4738749790888,Control
+new,277.15801176301824,Control

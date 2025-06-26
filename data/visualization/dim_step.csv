@@ -1,0 +1,6 @@
+process_step,step_order,is_final
+start,1,False
+step_1,2,False
+step_2,3,False
+step_3,4,False
+confirm,5,True
